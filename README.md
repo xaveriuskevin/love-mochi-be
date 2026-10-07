@@ -1,6 +1,6 @@
 # Love Mochi Backend
 
-Express 5 and strict TypeScript foundation for the Love Mochi API. Bun is used for local development and Node 20 runs the production build.
+Express 5 and strict TypeScript foundation for the Love Mochi API. Bun is used for local development and Node 24 runs the production build.
 
 ## Local setup
 

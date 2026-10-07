@@ -20,7 +20,7 @@ Every spec stamps `skills: [senior-backend]` plus a "Skills to invoke" body sect
 
 | Layer | Choice |
 |---|---|
-| Package manager | **Bun** (dev) / Node 20 (prod via Docker) |
+| Package manager | **Bun** (dev) / Node 24 (prod via Docker; supabase-js needs Node 22+) |
 | Framework | **Express 5** + TypeScript strict |
 | DB | **Supabase** (managed postgres) |
 | Validation | **Zod** |
